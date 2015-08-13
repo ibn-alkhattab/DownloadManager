@@ -269,7 +269,7 @@
    },
    "timeLeftDays": {
       "description": "",
-      "message": "$days$d $hours$h left",
+      "message": "$يوم$d $ساعة$h تبقى",
       "placeholders": {
          "days": {
             "content": "$1",
@@ -283,11 +283,11 @@
    },
    "timeLeftFinishing": {
       "description": "",
-      "message": "finishing..."
+      "message": "...جاري الإنهاء"
    },
    "timeLeftHours": {
       "description": "",
-      "message": "$hours$h $mins$m left",
+      "message": "$ساعة$h $دقيقة$m تبقى",
       "placeholders": {
          "hours": {
             "content": "$1",
@@ -301,7 +301,7 @@
    },
    "timeLeftMinutes": {
       "description": "",
-      "message": "$mins$m $sec$s left",
+      "message": "$دقيقة$m $ثانية$s تبقى",
       "placeholders": {
          "mins": {
             "content": "$1",
@@ -315,7 +315,7 @@
    },
    "timeLeftSeconds": {
       "description": "",
-      "message": "$sec$s left",
+      "message": "$ثانية$s تبقى",
       "placeholders": {
          "sec": {
             "content": "$1",
