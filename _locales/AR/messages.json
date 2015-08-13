@@ -261,11 +261,11 @@
    },
    "showOlderDownloads": {
       "description": "",
-      "message": "Show Older Downloads"
+      "message": "عرض التحميلات القديمة"
    },
    "tabTitle": {
       "description": "tab title",
-      "message": "Downloads"
+      "message": "التحميلات"
    },
    "timeLeftDays": {
       "description": "",
@@ -325,10 +325,10 @@
    },
    "zeroItems": {
       "description": "",
-      "message": "There are zero download items."
+      "message": ".لا يوجد تحميلات"
    },
    "zeroSearchResults": {
       "description": "",
-      "message": "Zero matches"
+      "message": "لا توجد مطابقة"
    }
 }
