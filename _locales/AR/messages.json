@@ -5,91 +5,91 @@
    },
    "contextMenuOpen": {
       "description": "",
-      "message": "Open"
+      "message": "فتح"
    },
    "contextMenuOpenFolder": {
       "description": "",
-      "message": "Open Containing Folder"
+      "message": "عرض في مجلد الحفظ"
    },
    "contextMenuGoToDownloadPage": {
       "description": "",
-      "message": "Go To Download Page"
+      "message": "الذهاب الى صفحة التحميل"
    },
    "contextMenuDownloadLink": {
       "description": "",
-      "message": "Copy Download Link"
+      "message": "نسخ رابط التحميل"
    },
    "contextMenuDeleteFromDisk": {
       "description": "",
-      "message": "Delete From Disk"
+      "message": "حذف من الجهاز"
    },
    "contextMenuRemoveFromList": {
       "description": "",
-      "message": "Remove From List"
+      "message": "إزالة من القائمة"
    },
    "translationTitle": {
       "description": "",
-      "message": "Help with translation"
+      "message": "ساعد في التعريب"
    },
    "AllDownloadsTitle": {
       "description": "",
-      "message": "All Downloads"
+      "message": "جميع التحميلات"
    },
    "optionsTitle": {
       "description": "",
-      "message": "Options"
+      "message": "خيارات"
    },
    "cancelTitle": {
       "description": "",
-      "message": "Cancel"
+      "message": "إلغاء"
    },
    "clearAllTitle": {
       "description": "",
-      "message": "Clear All Visible Downloads"
+      "message": "مسح جميع التحميلات المعروضة"
    },
    "clearAllText": {
       "description": "",
-      "message": "Clear All"
+      "message": "مسح الكل"
    },
    "clearCompletedTitle": {
       "description": "",
-      "message": "Clear All Completed Downloads"
+      "message": "مسح جميع التحميلات المكتملة"
    },
    "clearCompletedText": {
       "description": "",
-      "message": "Clear Completed"
+      "message": "مسح المكتملة"
    },
    "clearDeletedTitle": {
       "description": "",
-      "message": "Clear All Deleted Downloads"
+      "message": "مسح جميع التحميلات المحذوفة"
    },
    "clearDeletedText": {
       "description": "",
-      "message": "Clear Deleted"
+      "message": "مسح المحذوفة"
    },
    "clearFailedTitle": {
       "description": "",
-      "message": "Clear All Failed Downloads"
+      "message": "مسح جميع فشل التحميل"
    },
    "clearFailedText": {
       "description": "",
-      "message": "Clear Failed"
+      "message": "مسح الفاشلة"
    },
    "eraseTitle": {
       "description": "",
-      "message": "Clear from List"
+      "message": "مسح من القائمة"
    },
    "errorRemoved": {
       "description": "",
-      "message": "Removed"
+      "message": "إزيل"
    },
    "extDesc": {
       "description": "Extension description",
-      "message": "Manage and interact with your downloads in quick and easy way"
+      "message": "إدارة التحميلات والتفاعل معها بطريقة سهلة وسريعة"
    },
    "extName": {
       "description": "Extension name",
-      "message": "Download Manager"
+      "message": "مدير التحميلات"
    },
    "grantManagementPermission": {
       "description": "",
@@ -97,11 +97,11 @@
    },
    "loadingOlderDownloads": {
       "description": "",
-      "message": "Loading Older Downloads..."
+      "message": "تجهيز التحميلات القديمة"
    },
    "managementPermissionInfo": {
       "description": "",
-      "message": "Some files were downloaded by an extension."
+      "message": "يوجد ملقات لم يكتمل تحميلها"
    },
    "month0abbr": {
       "description": "",
@@ -153,27 +153,27 @@
    },
    "openDownloadsFolderTitle": {
       "description": "",
-      "message": "Open Downloads Folder"
+      "message": "فتح مجلد الحفظ"
    },
    "openDownloadsFolderText": {
       "description": "",
-      "message": "Downloads Folder"
+      "message": "مجلد الحفظ"
    },
    "settingsTitle": {
       "description": "",
-      "message": "Settings"
+      "message": "الإعدادات"
    },
    "settingsText": {
       "description": "",
-      "message": "Settings"
+      "message": "الإعدادات"
    },
    "openTitle": {
       "description": "",
-      "message": "Open"
+      "message": "فتح"
    },
    "openWhenCompleteDays": {
       "description": "",
-      "message": "Opening in $days$d $hours$h",
+      "message": "فتح في $يوم$d $ساعات$h",
       "placeholders": {
          "days": {
             "content": "$1",
@@ -187,11 +187,11 @@
    },
    "openWhenCompleteFinishing": {
       "description": "",
-      "message": "Opening in just a moment"
+      "message": "فتح في نفس اللحظة"
    },
    "openWhenCompleteHours": {
       "description": "",
-      "message": "Opening in $hours$h $mins$m",
+      "message": "Opening في $ساعات$h $دقائق$m",
       "placeholders": {
          "hours": {
             "content": "$1",
