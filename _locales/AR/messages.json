@@ -105,51 +105,51 @@
    },
    "month0abbr": {
       "description": "",
-      "message": "Jan"
+      "message": "يناير"
    },
    "month10abbr": {
       "description": "",
-      "message": "Nov"
+      "message": "نوفمبر"
    },
    "month11abbr": {
       "description": "",
-      "message": "Dec"
+      "message": "ديسمبر"
    },
    "month1abbr": {
       "description": "",
-      "message": "Feb"
+      "message": "فبراير"
    },
    "month2abbr": {
       "description": "",
-      "message": "Mar"
+      "message": "مارس"
    },
    "month3abbr": {
       "description": "",
-      "message": "Apr"
+      "message": "أبريل"
    },
    "month4abbr": {
       "description": "",
-      "message": "May"
+      "message": "مايو"
    },
    "month5abbr": {
       "description": "",
-      "message": "Jun"
+      "message": "يونيو"
    },
    "month6abbr": {
       "description": "",
-      "message": "Jul"
+      "message": "يوليو"
    },
    "month7abbr": {
       "description": "",
-      "message": "Aug"
+      "message": "أغسطس"
    },
    "month8abbr": {
       "description": "",
-      "message": "Sep"
+      "message": "سبتمبر"
    },
    "month9abbr": {
       "description": "",
-      "message": "Oct"
+      "message": "أكتوبر"
    },
    "openDownloadsFolderTitle": {
       "description": "",
@@ -191,7 +191,7 @@
    },
    "openWhenCompleteHours": {
       "description": "",
-      "message": "Opening في $ساعات$h $دقائق$m",
+      "message": "فتح في $ساعات$h $دقائق$m",
       "placeholders": {
          "hours": {
             "content": "$1",
@@ -205,7 +205,7 @@
    },
    "openWhenCompleteMinutes": {
       "description": "",
-      "message": "Opening in $mins$m $sec$s",
+      "message": "فتح في $دقائق$m $ثانية$s",
       "placeholders": {
          "mins": {
             "content": "$1",
@@ -219,7 +219,7 @@
    },
    "openWhenCompleteSeconds": {
       "description": "",
-      "message": "  Opening in $sec$s",
+      "message": "  فتح في $ثانية$s"",
       "placeholders": {
          "sec": {
             "content": "$1",
@@ -229,27 +229,27 @@
    },
    "pauseTitle": {
       "description": "",
-      "message": "Pause"
+      "message": "إيقاف مؤقت"
    },
    "referrerTitle": {
       "description": "",
-      "message": "Referrer"
+      "message": "المرجع"
    },
    "removeFileTitle": {
       "description": "",
-      "message": "Remove file"
+      "message": "إزالة الملف"
    },
    "resumeTitle": {
       "description": "",
-      "message": "Resume"
+      "message": "إستئناف"
    },
    "retryTitle": {
       "description": "",
-      "message": "Retry"
+      "message": "إعادة"
    },
    "searchPlaceholder": {
       "description": "",
-      "message": "Search..."
+      "message": " ...بحث"
    },
    "searching": {
       "description": "",
