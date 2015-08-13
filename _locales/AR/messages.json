@@ -1,7 +1,7 @@
-{
+﻿{
    "badChromeVersion": {
       "description": "",
-      "message": "The downloads API is only available on dev and beta channels. Update your chrome here."
+      "message": " تحميل (API) متاح فقط على قنوات ديف وبيتا. تحديث كروم الخاص بك هنا."
    },
    "contextMenuOpen": {
       "description": "",
@@ -29,7 +29,7 @@
    },
    "translationTitle": {
       "description": "",
-      "message": "ساعد في التعريب"
+      "message": "تعريب خطاب السويلم"
    },
    "AllDownloadsTitle": {
       "description": "",
@@ -93,7 +93,7 @@
    },
    "grantManagementPermission": {
       "description": "",
-      "message": "Show links to extensions that download files."
+      "message": "عرض روابط الملفات المحملة"
    },
    "loadingOlderDownloads": {
       "description": "",
@@ -101,7 +101,7 @@
    },
    "managementPermissionInfo": {
       "description": "",
-      "message": "يوجد ملقات لم يكتمل تحميلها"
+      "message": "توجد ملفات لم يكتمل تحميلها"
    },
    "month0abbr": {
       "description": "",
