@@ -173,7 +173,7 @@
    },
    "openWhenCompleteDays": {
       "description": "",
-      "message": "Opening in $days$d $hours$h,
+      "message": "Opening in $days$d $hours$h",
       "placeholders": {
          "days": {
             "content": "$1",
@@ -205,7 +205,7 @@
    },
    "openWhenCompleteMinutes": {
       "description": "",
-      "message": "فتح في $دقائق$m $ثانية$s",
+      "message": "Opening in $mins$m $sec$s",
       "placeholders": {
          "mins": {
             "content": "$1",
@@ -219,7 +219,7 @@
    },
    "openWhenCompleteSeconds": {
       "description": "",
-      "message": "  فتح في $ثانية$s"",
+      "message": "  فتح في $ثانية$s",
       "placeholders": {
          "sec": {
             "content": "$1",
