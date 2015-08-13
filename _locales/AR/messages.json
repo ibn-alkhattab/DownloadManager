@@ -205,7 +205,7 @@
    },
    "openWhenCompleteMinutes": {
       "description": "",
-      "message": "Opening in $mins$m $sec$s",
+      "message": "فتح في $دقيقة$m $ثانية$s",
       "placeholders": {
          "mins": {
             "content": "$1",
