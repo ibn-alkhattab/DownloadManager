@@ -173,7 +173,7 @@
    },
    "openWhenCompleteDays": {
       "description": "",
-      "message": "Opening in $days$d $hours$h",
+      "message": "فتح في $يوم$d $ساعة$h",
       "placeholders": {
          "days": {
             "content": "$1",
