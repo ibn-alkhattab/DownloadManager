@@ -191,7 +191,7 @@
    },
    "openWhenCompleteHours": {
       "description": "",
-      "message": "فتح في $ساعات$h $دقائق$m",
+      "message": "Opening in $hours$h $mins$m",
       "placeholders": {
          "hours": {
             "content": "$1",
