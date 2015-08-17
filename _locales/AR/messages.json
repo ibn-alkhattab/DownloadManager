@@ -173,7 +173,7 @@
    },
    "openWhenCompleteDays": {
       "description": "",
-      "message": "فتح في $days$ي $hours$س",
+      "message": "Opening in $days$d $hours$h",
       "placeholders": {
          "days": {
             "content": "$1",
@@ -205,7 +205,7 @@
    },
    "openWhenCompleteMinutes": {
       "description": "",
-      "message": "فتح في $mins$د $sec$ث",
+      "message": "Opening in $mins$m $sec$s",
       "placeholders": {
          "mins": {
             "content": "$1",
@@ -219,7 +219,7 @@
    },
    "openWhenCompleteSeconds": {
       "description": "",
-      "message": "  فتح في $sec$ث",
+      "message": "  Opening in $sec$s",
       "placeholders": {
          "sec": {
             "content": "$1",
@@ -269,7 +269,7 @@
    },
    "timeLeftDays": {
       "description": "",
-      "message": "$days$ي $hours$تبقى س",
+      "message": "$days$d $hours$h الوقت المتبقي",
       "placeholders": {
          "days": {
             "content": "$1",
@@ -287,7 +287,7 @@
    },
    "timeLeftHours": {
       "description": "",
-      "message": "$hours$س $mins$تبقى د",
+      "message": "$hours$h $mins$m الوقت المتبقي",
       "placeholders": {
          "hours": {
             "content": "$1",
@@ -301,7 +301,7 @@
    },
    "timeLeftMinutes": {
       "description": "",
-      "message": "$mins$د $sec$تبقى ث",
+      "message": "$mins$m $sec$s الوقت المتبقي",
       "placeholders": {
          "mins": {
             "content": "$1",
@@ -315,7 +315,7 @@
    },
    "timeLeftSeconds": {
       "description": "",
-      "message": "$sec$ث تبقى",
+      "message": "$sec$s الوقت المتبقي",
       "placeholders": {
          "sec": {
             "content": "$1",
